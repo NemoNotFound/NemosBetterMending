@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "nemos-better-mending",
+	"version": "${version}",
+	"name": "Nemo's Better Mending",
+	"description": "Nemo's Better Mending gets your mending tools repaired even if they are not in your equipment slots!",
+	"authors": [
+		"NemoNotFound"
+	],
+	"contact": {
+		"homepage": "https://nemonotfound.com/"
+	},
+	"license": "MIT",
+	"icon": "assets/nemos-better-mending/icon.png",
+	"environment": "server",
+	"entrypoints": {
+		"main": [
+			"com.nemonotfound.nemosbettermending.NemosBetterMending"
+		]
+	},
+	"mixins": [
+		"nemos-better-mending.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
