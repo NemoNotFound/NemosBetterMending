@@ -12,7 +12,7 @@
 	},
 	"license": "MIT",
 	"icon": "assets/nemos-better-mending/icon.png",
-	"environment": "server",
+	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"com.nemonotfound.nemosbettermending.NemosBetterMending"
