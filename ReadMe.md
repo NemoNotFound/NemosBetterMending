@@ -1,4 +1,4 @@
-# Nemo's Better Farming 
+# Nemo's Better Mending 
 
 Nemo's Better Mending repairs not only your mending tools in your equipment slot, 
 but every mending tool in your inventory!
