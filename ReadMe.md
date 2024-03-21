@@ -5,6 +5,10 @@ but every mending tool in your inventory!
 
 Big thanks to Jared for helping me with making my mod compatible with Clumps!
 
+If you want to get updates about my mods, join my [discord](https://discord.com/invite/yxs9dga)!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5UXAPK)
+
 ## Features
 - XP now repairs all mending tools in your inventory
 
@@ -12,8 +16,6 @@ Big thanks to Jared for helping me with making my mod compatible with Clumps!
 - Compatible with [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) by Jaredlll08
 
 Feel free to give me your feedback and suggestions, I appreciate it!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5UXAPK)
 
 [![](https://imgur.com/lguE51t.png)](https://billing.kinetichosting.net/aff.php?aff=679)
 If you need a Minecraft Server, go check out Kinetic Hosting and save 15% for your first month with the code "Nemo"! Just click here on the banner!
