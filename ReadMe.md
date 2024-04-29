@@ -1,4 +1,4 @@
-![Nemo's Mossy Blocks](https://github.com/NemoNotFound/NemosBetterMending/blob/master/src/main/resources/assets/nemos-mossy-blocks/title.png?raw=true)
+![Nemo's Better Mending](https://github.com/NemoNotFound/NemosBetterMending/blob/master/src/main/resources/assets/nemos-better-mending/title.png?raw=true)
 <br><br>
 
 <p align="center">
