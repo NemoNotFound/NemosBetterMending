@@ -1,19 +1,35 @@
-# Nemo's Better Mending 
+![Nemo's Mossy Blocks](https://github.com/NemoNotFound/NemosBetterMending/blob/master/src/main/resources/assets/nemos-mossy-blocks/title.png?raw=true)
+<br><br>
 
-Nemo's Better Mending repairs not only your mending tools in your equipment slot, 
-but every mending tool in your inventory!
+<p align="center">
+  Repair not only your mending tools in your equipment slot, but every mending tool in your inventory! <br><br>
+  Big thanks to Jared for helping me with making my mod compatible with <a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps</a>!<br><br>
+  I love to create mods for Minecraft and wish to live off it one day, so I hope you like what I do.
+  Either way feel free to give me your feedback and suggestions, either in the comments or on my <a href="https://discord.com/invite/yxs9dga">Discord</a> :) 
+  <br><br>
+  For more information check the <a href="https://www.nemonotfound.com/minecraft-mods/nemos-better-mending">wiki</a>.
+</p>
 
-Big thanks to Jared for helping me with making my mod compatible with Clumps!
+<br>
 
-## Features
-- XP now repairs all mending tools in your inventory
+<div align="center">
+  <a href="https://ko-fi.com/J3J5UXAPK">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi donation">
+  </a>
+</div>
 
-## Compatibility
-- Compatible with [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) by Jaredlll08
+<br>
 
-Feel free to give me your feedback and suggestions, I appreciate it!
+<h2 align="center">Downloads</h2>
+<p align="center">
+  <a href="https://curseforge.com/minecraft/mc-mods/nemos-better-mending">CurseForge</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://modrinth.com/mod/nemos-better-mending">Modrinth</a>
+</p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5UXAPK)
+<br>
 
-[![](https://imgur.com/lguE51t.png)](https://billing.kinetichosting.net/aff.php?aff=679)
-If you need a Minecraft Server, go check out Kinetic Hosting and save 15% for your first month with the code "Nemo"! Just click here on the banner!
+<p align="center">
+  If you need a Minecraft Server, go check out Kinetic Hosting and save 15% for your first month with the code "Nemo"! Just click here on the banner! <br>
+  <a href="https://billing.kinetichosting.net/aff.php?aff=679">
+    <img src="https://imgur.com/lguE51t.png" alt="Kinetic Hosting Minecraft Server">
+  </a>
+</p>
