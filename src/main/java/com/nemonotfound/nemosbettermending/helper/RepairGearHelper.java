@@ -1,7 +1,7 @@
 package com.nemonotfound.nemosbettermending.helper;
 
+import net.minecraft.component.EnchantmentEffectComponentTypes;
 import net.minecraft.enchantment.EnchantmentHelper;
-import net.minecraft.enchantment.Enchantments;
 import net.minecraft.item.ItemStack;
 
 public class RepairGearHelper {
@@ -19,7 +19,8 @@ public class RepairGearHelper {
     }
 
     public static boolean isRepairable(ItemStack itemStack) {
-        return itemStack.isDamaged() && EnchantmentHelper.getLevel(Enchantments.MENDING, itemStack) > 0;
+        return itemStack.isDamaged() && EnchantmentHelper.hasAnyEnchantmentsWith(itemStack,
+                EnchantmentEffectComponentTypes.REPAIR_WITH_XP);
     }
 
     private static int getMendingRepairCost(int repairAmount) {
