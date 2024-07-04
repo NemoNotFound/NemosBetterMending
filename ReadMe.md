@@ -2,15 +2,24 @@
 <br><br>
 
 <p align="center">
-  Repair not only your mending tools in your equipment slot, but every mending tool in your inventory! <br><br>
-  Big thanks to Jared for helping me with making my mod compatible with <a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps</a>!<br><br>
-  I love to create mods for Minecraft and wish to live off it one day, so I hope you like what I do.
-  Either way feel free to give me your feedback and suggestions, either in the comments or on my <a href="https://discord.com/invite/yxs9dga">Discord</a> :) 
-  <br><br>
-  For more information check the <a href="https://www.nemonotfound.com/minecraft-mods/nemos-better-mending">wiki</a>.
+  Repair not only your mending tools in your equipment slot, but every mending tool in your inventory! <br>
+  Big thanks to Jared for helping me with making my mod compatible with <a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps</a>!<br>
 </p>
 
+<div align="center">
+  <a href="https://discord.com/invite/yxs9dga" target="_blank">
+    <img src="https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/join_discord_button.svg?raw=true" alt="ko-fi donation" width="200">
+  </a>
+</div>
+
 <br>
+
+<p align="center">
+  I love to create mods for Minecraft and wish to live off it one day, so I hope you like what I do. <br>
+  Either way feel free to give me your feedback and suggestions, either on my Discord or <a href="https://github.com/NemoNotFound/NemosBetterMending/discussions/">here</a> :)
+  <br>
+  For more information check the <a href="https://www.nemonotfound.com/minecraft-mods/nemos-better-mending/wiki">wiki</a>.
+</p>
 
 <div align="center">
   <a href="https://ko-fi.com/J3J5UXAPK">
