@@ -15,7 +15,7 @@ import org.spongepowered.asm.mixin.injection.ModifyVariable;
 public class ExperienceOrbEntityMixin {
 
 	@ModifyVariable(method = "onPlayerCollision", at = @At("STORE"), ordinal = 0)
-	private int init(int original, @Local PlayerEntity player) {
+	private int init(int original, @Local(argsOnly = true) PlayerEntity player) {
 		int amount = original;
 
 		if (!ClumpsRepairGearsHelper.isClumpsLoaded() && amount > 0) {
